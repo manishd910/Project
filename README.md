@@ -1,2 +1,2 @@
-# Project
-It consists of data science projects by using python libraries
+# Python Project
+It consists of data analysis projects by using python libraries
